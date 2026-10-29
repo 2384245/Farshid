@@ -1,0 +1,1 @@
+Developed a PHP and MySQL video game database application featuring game listings, AJAX live search, game details pages, sorting, filtering, pagination, JSON data handling, and Bootstrap-based responsive design.
